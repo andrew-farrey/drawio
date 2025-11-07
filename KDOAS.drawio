@@ -29,7 +29,7 @@
           <mxGeometry x="330" y="195" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9y3_g8ZWjWvNyxmpgSKR-22" value="For appropriate input data, automate daily runs" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="200" y="240" width="130" height="30" as="geometry" />
+          <mxGeometry x="201" y="240" width="114" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9y3_g8ZWjWvNyxmpgSKR-25" value="Alert Detection" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="300" y="345" width="160" height="100" as="geometry" />
@@ -142,7 +142,7 @@
         <mxCell id="9y3_g8ZWjWvNyxmpgSKR-92" value="Developed over several months of approval processes." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="AQPGNhIWD-dvYbBQZIPN-1" vertex="1">
           <mxGeometry x="5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9y3_g8ZWjWvNyxmpgSKR-93" value="Goal was a drop-in template that could be modified for each spike." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="AQPGNhIWD-dvYbBQZIPN-1" vertex="1">
+        <mxCell id="9y3_g8ZWjWvNyxmpgSKR-93" value="Goal was a drop-in template that could easily be modified for each spike." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="AQPGNhIWD-dvYbBQZIPN-1" vertex="1">
           <mxGeometry y="52.5" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9y3_g8ZWjWvNyxmpgSKR-95" value="REDCap follow up survey link disseminated to local health department(s)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="AQPGNhIWD-dvYbBQZIPN-1" vertex="1">

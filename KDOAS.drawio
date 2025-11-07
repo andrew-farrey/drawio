@@ -31,7 +31,7 @@
         <mxCell id="9y3_g8ZWjWvNyxmpgSKR-22" value="For appropriate input data, automate daily runs" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="201" y="240" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9y3_g8ZWjWvNyxmpgSKR-25" value="Alert Detection" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="9y3_g8ZWjWvNyxmpgSKR-25" value="Alert Generated" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="300" y="345" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9y3_g8ZWjWvNyxmpgSKR-27" value="Manual Epidemiologist review (multi-source confirmation/scale)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" parent="1" vertex="1">
@@ -71,12 +71,12 @@
         <mxCell id="9y3_g8ZWjWvNyxmpgSKR-35" value="Internal KIPRC/DPH-developed Template" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="365" y="483" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9y3_g8ZWjWvNyxmpgSKR-2" value="biospatial Alerts" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=15;movableLabel=0;shadow=1;fontStyle=1;fontSize=11;verticalAlign=middle;textShadow=0;labelBackgroundColor=none;align=center;whiteSpace=wrap;html=1;textDirection=ltr;spacingTop=-24;" parent="1" vertex="1">
+        <mxCell id="9y3_g8ZWjWvNyxmpgSKR-2" value="biospatial data" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=15;movableLabel=0;shadow=1;fontStyle=1;fontSize=11;verticalAlign=middle;textShadow=0;labelBackgroundColor=none;align=center;whiteSpace=wrap;html=1;textDirection=ltr;spacingTop=-24;" parent="1" vertex="1">
           <mxGeometry x="533" y="70" width="65" height="80" as="geometry">
             <mxPoint x="1" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9y3_g8ZWjWvNyxmpgSKR-3" value="ODMAP Alerts" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=15;movableLabel=0;shadow=1;fontStyle=1;fontSize=11;verticalAlign=middle;textShadow=0;labelBackgroundColor=none;align=center;whiteSpace=wrap;html=1;textDirection=ltr;spacingTop=-24;" parent="1" vertex="1">
+        <mxCell id="9y3_g8ZWjWvNyxmpgSKR-3" value="ODMAP data" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=15;movableLabel=0;shadow=1;fontStyle=1;fontSize=11;verticalAlign=middle;textShadow=0;labelBackgroundColor=none;align=center;whiteSpace=wrap;html=1;textDirection=ltr;spacingTop=-24;" parent="1" vertex="1">
           <mxGeometry x="455" y="70" width="65" height="80" as="geometry">
             <mxPoint x="1" y="8" as="offset" />
           </mxGeometry>

@@ -38,7 +38,7 @@
           <mxGeometry x="600" y="355" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9y3_g8ZWjWvNyxmpgSKR-1" value="Syndromic Surveillance data&lt;br&gt;(ESSENCE)" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=15;movableLabel=0;shadow=1;fontStyle=1;fontSize=11;verticalAlign=middle;textShadow=0;labelBackgroundColor=none;align=center;whiteSpace=wrap;html=1;textDirection=ltr;spacingTop=-17;" parent="1" vertex="1">
-          <mxGeometry x="652" y="80" width="100" height="80" as="geometry">
+          <mxGeometry x="652" y="70" width="100" height="80" as="geometry">
             <mxPoint x="1" y="8" as="offset" />
           </mxGeometry>
         </mxCell>

@@ -41,10 +41,10 @@
           <mxGeometry height="60" width="60" x="510" y="120" as="geometry" />
         </mxCell>
         <mxCell id="7YfL2hUb7pn_S6RoYk8w-26" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" value="" vertex="1">
-          <mxGeometry height="50" width="55" x="192.5" y="50" as="geometry" />
+          <mxGeometry height="30" width="55" x="192.5" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="7YfL2hUb7pn_S6RoYk8w-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AOC Data available to 6/30/2022" vertex="1">
-          <mxGeometry height="30" width="100" x="167.5" y="20" as="geometry" />
+        <mxCell id="7YfL2hUb7pn_S6RoYk8w-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;(AOC data available through 6/30/2022)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="170" y="30" as="geometry" />
         </mxCell>
         <mxCell id="7YfL2hUb7pn_S6RoYk8w-35" edge="1" parent="1" source="7YfL2hUb7pn_S6RoYk8w-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7YfL2hUb7pn_S6RoYk8w-33" value="">
           <mxGeometry relative="1" as="geometry" />

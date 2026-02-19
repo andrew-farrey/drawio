@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.2.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.4.0">
   <diagram name="Page-1" id="R4bNX0bM9AQGueTQyr-R">
-    <mxGraphModel dx="1250" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="758" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,19 +8,21 @@
           <mxGeometry height="90" width="330" x="210" y="240" as="geometry" />
         </mxCell>
         <mxCell id="WQko09zfhs3FdACmCTNR-41" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="120" width="20" x="170" y="225" as="geometry" />
+          <mxGeometry height="110" width="20" x="170" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="For appropriate input data, automate daily runs" vertex="1">
+        <mxCell id="WQko09zfhs3FdACmCTNR-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="ESSENCE alerts run daily; EMS alerts are generated in real-time" vertex="1">
           <mxGeometry height="30" width="114" x="41" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="zIt_z7g-_fh-DxdAxMGE-2" edge="1" parent="1" source="WQko09zfhs3FdACmCTNR-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.666;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;" target="WQko09zfhs3FdACmCTNR-43" value="">
+        <mxCell id="bmq-gWbUyaWxqfx5Shu--2" edge="1" parent="1" source="bmq-gWbUyaWxqfx5Shu--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="bmq-gWbUyaWxqfx5Shu--1" value="No">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmq-gWbUyaWxqfx5Shu--9" edge="1" parent="1" source="WQko09zfhs3FdACmCTNR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bmq-gWbUyaWxqfx5Shu--8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-43" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Alert Generated" vertex="1">
-          <mxGeometry height="100" width="160" x="140" y="375" as="geometry" />
-        </mxCell>
         <mxCell id="WQko09zfhs3FdACmCTNR-44" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" value="Manual Epidemiologist review (multi-source confirmation/scale)" vertex="1">
-          <mxGeometry height="80" width="160" x="440" y="385" as="geometry" />
+          <mxGeometry height="80" width="160" x="225" y="377.5" as="geometry" />
         </mxCell>
         <mxCell id="WQko09zfhs3FdACmCTNR-75" edge="1" parent="1" source="WQko09zfhs3FdACmCTNR-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="WQko09zfhs3FdACmCTNR-72" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -36,18 +38,11 @@
         <mxCell id="WQko09zfhs3FdACmCTNR-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Rapid ED Data&lt;div&gt;Source&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="467" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-49" edge="1" parent="1" source="WQko09zfhs3FdACmCTNR-43" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" target="WQko09zfhs3FdACmCTNR-44" value="">
-          <mxGeometry relative="1" x="-0.0032" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="300" y="424.63" as="sourcePoint" />
-            <mxPoint x="440" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-50" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=11;" value="Internal DPH/CHFS (Sensitive) Report" vertex="1">
+        <mxCell id="WQko09zfhs3FdACmCTNR-50" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=11;spacingBottom=10;" value="Internal Sensitive Report (in development)" vertex="1">
           <mxGeometry height="62.5" width="113" x="612" y="513" as="geometry" />
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-51" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Internal KIPRC/DPH-developed Template" vertex="1">
-          <mxGeometry height="60" width="120" x="205" y="513" as="geometry" />
+        <mxCell id="WQko09zfhs3FdACmCTNR-51" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;div style=&quot;padding-bottom: 10px;&quot;&gt;Internal KIPRC/DPH-developed Template&lt;/div&gt;" vertex="1">
+          <mxGeometry height="63" width="120" x="205" y="512.5" as="geometry" />
         </mxCell>
         <mxCell id="WQko09zfhs3FdACmCTNR-73" edge="1" parent="1" source="WQko09zfhs3FdACmCTNR-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="WQko09zfhs3FdACmCTNR-72" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -69,12 +64,12 @@
           <mxGeometry height="20" width="170" x="250" y="70" as="geometry" />
         </mxCell>
         <mxCell id="WQko09zfhs3FdACmCTNR-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="EMS Data Sources" vertex="1">
-          <mxGeometry height="30" width="60" x="295" y="40" as="geometry" />
+          <mxGeometry height="30" width="60" x="305" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;spacingRight=0;spacingLeft=-19;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Alert reported to key CFHS-level official&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Alert validated&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;ReadyOp/listserve Alert notification sent&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Internal and External template disseminated to local health department(s)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="WQko09zfhs3FdACmCTNR-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;spacingRight=0;spacingLeft=-19;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Alert reported to key CFHS-level official&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Alert validated?&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;ReadyOp/listserve Alert notification sent&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Internal and External template disseminated to local health department(s)&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="130" width="164.5" x="385" y="513" as="geometry" />
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-59" edge="1" parent="1" source="WQko09zfhs3FdACmCTNR-44" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontStyle=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.414;exitY=-0.047;exitDx=0;exitDy=0;exitPerimeter=0;" target="WQko09zfhs3FdACmCTNR-58" value="Yes">
+        <mxCell id="WQko09zfhs3FdACmCTNR-59" edge="1" parent="1" source="bmq-gWbUyaWxqfx5Shu--8" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontStyle=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="WQko09zfhs3FdACmCTNR-58" value="Yes">
           <mxGeometry relative="1" x="-0.0109" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="490" y="460" as="sourcePoint" />
@@ -87,7 +82,7 @@
         <mxCell id="WQko09zfhs3FdACmCTNR-61" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="242.5" width="685" x="40" y="530.5" as="geometry" />
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-63" parent="WQko09zfhs3FdACmCTNR-61" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=11;" value="External/Public Report&lt;div&gt;(in development)&lt;/div&gt;" vertex="1">
+        <mxCell id="WQko09zfhs3FdACmCTNR-63" parent="WQko09zfhs3FdACmCTNR-61" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=11;" value="External/Public Report&lt;div style=&quot;padding-bottom: 10px;&quot;&gt;(in development)&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="113" x="572" y="47.5" as="geometry" />
         </mxCell>
         <mxCell id="WQko09zfhs3FdACmCTNR-64" edge="1" parent="WQko09zfhs3FdACmCTNR-61" source="WQko09zfhs3FdACmCTNR-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="WQko09zfhs3FdACmCTNR-58">
@@ -95,10 +90,10 @@
             <mxPoint x="375" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-66" parent="WQko09zfhs3FdACmCTNR-61" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="External KIPRC/DPH-developed Template" vertex="1">
-          <mxGeometry height="60" width="120" x="165" y="50" as="geometry" />
+        <mxCell id="WQko09zfhs3FdACmCTNR-66" parent="WQko09zfhs3FdACmCTNR-61" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="&lt;div style=&quot;line-height: 110%; padding-right: 0px; padding-bottom: 10px;&quot;&gt;External KIPRC/DPH-developed Template&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62.5" width="120" x="165" y="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="WQko09zfhs3FdACmCTNR-67" edge="1" parent="WQko09zfhs3FdACmCTNR-61" source="WQko09zfhs3FdACmCTNR-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="WQko09zfhs3FdACmCTNR-50" value="">
+        <mxCell id="WQko09zfhs3FdACmCTNR-67" edge="1" parent="WQko09zfhs3FdACmCTNR-61" source="WQko09zfhs3FdACmCTNR-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" target="WQko09zfhs3FdACmCTNR-50" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WQko09zfhs3FdACmCTNR-69" parent="WQko09zfhs3FdACmCTNR-61" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Developed over several months of approval processes." vertex="1">
@@ -123,6 +118,24 @@
         </mxCell>
         <mxCell id="WQko09zfhs3FdACmCTNR-68" edge="1" parent="1" source="WQko09zfhs3FdACmCTNR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WQko09zfhs3FdACmCTNR-71" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bmq-gWbUyaWxqfx5Shu--1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" value="Log Alert&lt;div&gt;Details&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="612" y="388.12" as="geometry" />
+        </mxCell>
+        <mxCell id="bmq-gWbUyaWxqfx5Shu--10" edge="1" parent="1" source="bmq-gWbUyaWxqfx5Shu--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WQko09zfhs3FdACmCTNR-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bmq-gWbUyaWxqfx5Shu--3" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Alert&lt;div&gt;Generated&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.5" width="121" x="41" y="381.25" as="geometry" />
+        </mxCell>
+        <mxCell id="bmq-gWbUyaWxqfx5Shu--6" edge="1" parent="1" source="WQko09zfhs3FdACmCTNR-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.341;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="bmq-gWbUyaWxqfx5Shu--3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="350" as="sourcePoint" />
+            <mxPoint x="160" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmq-gWbUyaWxqfx5Shu--8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Alert&lt;div&gt;Confirmed?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="98.13" width="110" x="412.25" y="369.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
